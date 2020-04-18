@@ -1,6 +1,6 @@
 # Autonomous-Arduino-Car
 This project is about developing a script for controlling a 4-wheeled Arduino
-car to move autonomous through unknown territory.
+car to move autonomous through unknown territory with the help of different sensors. Currently there are two sonar sensors and basic movement functions implemented. More to come.
 
 ## Quickstart
 This script is designed for an Arduino with four electric motors and two sonar
